@@ -18,6 +18,19 @@
       "mockedUserAccounts": []
     }
   },
+  "directories": {
+    "assets": [],
+    "components": [],
+    "pages": [],
+    "scripts": [],
+    "services": [
+      {
+        "id": "EDMMLIr-fDS2fiJkeH4yX",
+        "name": "mydir"
+      }
+    ],
+    "stylesheets": []
+  },
   "externalScripts": [],
   "externalStylesheets": [],
   "localScripts": [],
