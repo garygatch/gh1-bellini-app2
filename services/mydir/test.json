@@ -3,7 +3,16 @@
   "name": "test",
   "description": "",
   "singleton": true,
-  "variables": [],
-  "visible": [],
+  "variables": [
+    {
+      "name": "aaa",
+      "description": "",
+      "type": "property",
+      "value": ""
+    }
+  ],
+  "visible": [
+    "aaa"
+  ],
   "parentDirectoryId": "EDMMLIr-fDS2fiJkeH4yX"
 }
