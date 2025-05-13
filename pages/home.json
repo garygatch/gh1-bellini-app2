@@ -1,0 +1,14 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [
+    {
+      "name": "test",
+      "type": "service",
+      "id": "service"
+    }
+  ],
+  "children": []
+}
